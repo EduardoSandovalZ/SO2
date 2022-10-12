@@ -1,0 +1,17 @@
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\bin\Debug\net6.0-windows\AgendaBinaria.exe
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\bin\Debug\net6.0-windows\AgendaBinaria.deps.json
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\bin\Debug\net6.0-windows\AgendaBinaria.runtimeconfig.json
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\bin\Debug\net6.0-windows\AgendaBinaria.dll
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\bin\Debug\net6.0-windows\AgendaBinaria.pdb
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.csproj.AssemblyReference.cache
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.Form1.resources
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.csproj.GenerateResource.cache
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.AssemblyInfoInputs.cache
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.AssemblyInfo.cs
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.csproj.CoreCompileInputs.cache
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.dll
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\refint\AgendaBinaria.dll
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.pdb
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\AgendaBinaria.genruntimeconfig.cache
+D:\SO2\Nueva carpeta\AgendaBinaria\AgendaBinaria\obj\Debug\net6.0-windows\ref\AgendaBinaria.dll

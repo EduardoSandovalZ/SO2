@@ -1,0 +1,14 @@
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SO2\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
