@@ -1,0 +1,11 @@
+C:\Users\zorro\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\zorro\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\zorro\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.AssemblyReference.cache
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica_1.Form1.resources
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.GenerateResource.cache
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\zorro\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
