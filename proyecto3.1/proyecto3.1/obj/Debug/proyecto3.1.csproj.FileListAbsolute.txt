@@ -1,0 +1,26 @@
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\bin\Debug\proyecto3.1.exe.config
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\bin\Debug\proyecto3.1.exe
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\bin\Debug\proyecto3.1.pdb
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.AssemblyReference.cache
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Form1.resources
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Properties.Resources.resources
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.GenerateResource.cache
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.CoreCompileInputs.cache
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.exe
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.pdb
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Acerca.resources
+C:\Users\zorro\source\repos\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Opciones.resources
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\bin\Debug\proyecto3.1.exe.config
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\bin\Debug\proyecto3.1.exe
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\bin\Debug\proyecto3.1.pdb
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.AssemblyReference.cache
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.SuggestedBindingRedirects.cache
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Acerca.resources
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Form1.resources
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Opciones.resources
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3._1.Properties.Resources.resources
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.GenerateResource.cache
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.csproj.CoreCompileInputs.cache
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.exe
+D:\SO2\Nueva carpeta\proyecto3.1\proyecto3.1\obj\Debug\proyecto3.1.pdb
