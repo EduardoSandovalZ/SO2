@@ -1,0 +1,15 @@
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\bin\Debug\chatWindows.exe.config
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\bin\Debug\chatWindows.exe
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\bin\Debug\chatWindows.pdb
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\bin\Debug\Newtonsoft.Json.dll
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\bin\Debug\Newtonsoft.Json.xml
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.csproj.AssemblyReference.cache
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.csproj.SuggestedBindingRedirects.cache
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.Form1.resources
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.Properties.Resources.resources
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.csproj.GenerateResource.cache
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.csproj.CoreCompileInputs.cache
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.csproj.CopyComplete
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.exe
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.pdb
+D:\SO2\Nueva carpeta\chatWindows\chatWindows\obj\Debug\chatWindows.crear.resources
