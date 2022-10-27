@@ -26,7 +26,7 @@ namespace chatWindows
         {
 
             String cliente = "";
-            string usuario = "123";
+            string usuario = "201907866";
             string descripcion = "";
 
             cliente = textBox1.Text;

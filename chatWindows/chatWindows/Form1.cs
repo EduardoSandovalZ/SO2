@@ -26,7 +26,7 @@ namespace chatWindows
         public void load()
         {
             dataGridView1.Rows.Clear();
-            String url = "http://serviciosdigitalesplus.com/chat/?tipo=1&cliente=juan&usuario=123";
+            String url = "http://serviciosdigitalesplus.com/chat/?tipo=2&usuario=201907866";
 
             String texto = (new WebClient().DownloadString(url));
             Root r = JsonConvert.DeserializeObject<Root>(texto);

@@ -100,21 +100,25 @@
             // 
             this.cliente.HeaderText = "Cliente";
             this.cliente.Name = "cliente";
+            this.cliente.ReadOnly = true;
             // 
             // usuario
             // 
             this.usuario.HeaderText = "Usuario";
             this.usuario.Name = "usuario";
+            this.usuario.ReadOnly = true;
             // 
             // descripcion
             // 
             this.descripcion.HeaderText = "Descripcion";
             this.descripcion.Name = "descripcion";
+            this.descripcion.ReadOnly = true;
             // 
             // fecha
             // 
             this.fecha.HeaderText = "Fecha";
             this.fecha.Name = "fecha";
+            this.fecha.ReadOnly = true;
             this.fecha.Width = 150;
             // 
             // Form1
